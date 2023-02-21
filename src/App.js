@@ -9,7 +9,7 @@ function App() {
   let b = 79;
   return (
     <div>
-      <Nav />
+      {/* <Nav /> */}
       <Form/>
       {/* <Nav/>
 <Nav/>

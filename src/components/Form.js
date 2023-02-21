@@ -10,7 +10,7 @@ const Form = () => {
         // console.log(e.target.value)
 
         setValue(e.target.value)
-        setCount(count+1)
+        setCount(e.target.value.length)
 
 
     }
